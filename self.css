@@ -84,5 +84,9 @@ p{
 	font-family: "Yukyokasho Yoko", cursive;
 }
 
-
+a.w-top{
+	font-family: "Yukyokasho Yoko", cursive;
+	color: tomato;
+	text-decoration: none;
+}
 
