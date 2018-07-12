@@ -1,0 +1,58 @@
+body{
+	background-color: rgba(238,162,164,0.4);
+	margin: 0;
+}
+
+h1{
+	background-color: white;
+	padding-top: 0.4px;
+	padding-bottom: 0.4px;
+	position: relative;
+	left: 102px;
+}
+
+#female{size: 8%;
+		position: relative;
+		left: 13%;
+		bottom: 93px;
+
+}
+
+#NetId{
+	color: rgb(136,136,136);
+	position: relative;
+	left: 106px;
+	bottom: 110px;
+}
+
+#profile{
+	position: relative;
+	bottom: 218px;
+	width: 8%;
+}
+
+#hhh{
+	width: 8%;
+	position: relative;
+	bottom: 218px;
+	float: right;
+}
+
+.content{
+	text-align: center;
+	margin: 10%;
+}
+
+.top{
+	float: 8% left
+}
+
+
+
+
+
+
+
+
+
+
