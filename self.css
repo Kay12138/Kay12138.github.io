@@ -1,58 +1,88 @@
 body{
 	background-color: rgba(238,162,164,0.4);
 	margin: 0;
+	padding-right: 0;
+	width: 100%
 }
 
-h1{
-	background-color: white;
+h1{width: 100%;
+	background-color: rgba(238,162,164,0.4)3
 	padding-top: 0.4px;
-	padding-bottom: 0.4px;
-	position: relative;
-	left: 102px;
+	padding-bottom: 0.3px;
+	padding-left: 160px;
+	font-size: 44px;
+	margin: 0;
 }
 
-#female{size: 8%;
-		position: relative;
-		left: 13%;
-		bottom: 93px;
 
+
+#female{width: 50px;
+		size: 100px;
+		position: absolute;
+		top: 56px;
+		margin-left: 239px; 
 }
 
 #NetId{
 	color: rgb(136,136,136);
-	position: relative;
-	left: 106px;
-	bottom: 110px;
+	position: absolute;
+	left: 160px;
+	top: 70px;
+	font-size: 30px;
 }
 
 #profile{
-	position: relative;
-	bottom: 218px;
-	width: 8%;
+	width: 157px;
+	float:left;
+	position: absolute;
+	z-index: 999;
+	top: 0;
 }
 
 #hhh{
-	width: 8%;
-	position: relative;
-	bottom: 218px;
+	width: 150px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
 	float: right;
+	padding: 0;
+	margin: 0;
+
 }
 
 .content{
 	text-align: center;
-	margin: 10%;
+	margin: 0 10%;
+	font-size: 20px
 }
 
-.top{
-	float: 8% left
+.href{
+	font-size: 20px;
+	background-color: rgb(255,246,204);
+	text-align: center;
+	clear: both;
+	padding-top: 10px;
 }
 
 
+a.nav-link{
+	display: inline-block;
+	width: 200px;
+	position: relative;
+	top: -6px;
+	color: tomato;
+	text-decoration: none;
+	font-family: "Yukyokasho Yoko", cursive;
+}
 
+.nav-link:hover{
+	color: rgb(176,177,200);
+	transition: color 0.3s; font-weight: bolder; font-size: 25px;
+}
 
-
-
-
+p{
+	font-family: "Yukyokasho Yoko", cursive;
+}
 
 
 
