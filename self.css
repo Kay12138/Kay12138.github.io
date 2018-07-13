@@ -2,11 +2,11 @@ body{
 	background-color: rgba(238,162,164,0.4);
 	margin: 0;
 	padding-right: 0;
-	width: 100%
+	width: 100%;
+	font-family: 'Quicksand', sans-serif;
 }
 
 h1{width: 100%;
-	background-color: rgba(238,162,164,0.4)3
 	padding-top: 0.4px;
 	padding-bottom: 0.3px;
 	padding-left: 160px;
@@ -32,7 +32,7 @@ h1{width: 100%;
 }
 
 #profile{
-	width: 157px;
+	width: 145px;
 	float:left;
 	position: absolute;
 	z-index: 999;
@@ -40,7 +40,7 @@ h1{width: 100%;
 }
 
 #hhh{
-	width: 150px;
+	width: 145px;
 	position: absolute;
 	right: 0px;
 	top: 0px;
@@ -53,7 +53,7 @@ h1{width: 100%;
 .content{
 	text-align: center;
 	margin: 0 10%;
-	font-size: 20px
+	font-size: 25px
 }
 
 .href{
@@ -72,7 +72,6 @@ a.nav-link{
 	top: -6px;
 	color: tomato;
 	text-decoration: none;
-	font-family: "Yukyokasho Yoko", cursive;
 }
 
 .nav-link:hover{
@@ -80,12 +79,8 @@ a.nav-link{
 	transition: color 0.3s; font-weight: bolder; font-size: 25px;
 }
 
-p{
-	font-family: "Yukyokasho Yoko", cursive;
-}
 
 a.w-top{
-	font-family: "Yukyokasho Yoko", cursive;
 	color: tomato;
 	text-decoration: none;
 	background: rgb(255,246,204);
@@ -93,10 +88,9 @@ a.w-top{
 }
 
 #about{
-	font-family: "Yukyokasho Yoko", cursive;
 	position: absolute;
-	left: 280px;
-	top: 50px;
+	left: 30%;
+	top: 60px;
 }
 
 
