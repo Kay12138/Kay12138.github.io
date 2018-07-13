@@ -12,7 +12,6 @@ h1{width: 100%;
 	padding-left: 160px;
 	font-size: 44px;
 	margin: 0;
-	
 }
 
 
@@ -31,7 +30,7 @@ h1{width: 100%;
 	top: 70px;
 	font-size: 30px;
 }
-
+ 
 #profile{
 	width: 145px;
 	float:left;
@@ -41,7 +40,7 @@ h1{width: 100%;
 }
 
 #hhh{
-	width: 14px;
+	width: 145px;
 	position: absolute;
 	right: 0px;
 	top: 0px;
@@ -67,6 +66,7 @@ a.nav-link{
 	top: -6px;
 	color: tomato;
 	text-decoration: none;
+	font-family: 'Quicksand', sans-serif;
 }
 
 .nav-link:hover{
@@ -76,37 +76,51 @@ a.nav-link{
 
 
 
+#Wechat{
+	text-align: center;
+	font-size: 40px;	
 }
 
-.img{
+#qr{
 	display: block;
-	margin-left:auto;
-	margin-right:auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
 }
 
-
-#a1,#a2,#a3,#a4,#a5,#a6,#a7,#a8,#a9{
-	width: 24%;
-}
-
-.row{
-	width: 100%;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-
-
-#a10{
-	width: 100%;
-
-}
 
 #title{
 	position: absolute;
 	left: 30%;
 	top: 60px;
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
