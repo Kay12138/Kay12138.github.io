@@ -50,12 +50,6 @@ h1{width: 100%;
 
 }
 
-.content{
-	text-align: center;
-	margin: 0 10%;
-	font-size: 20px
-}
-
 .href{
 	font-size: 20px;
 	background-color: rgb(255,246,204);
@@ -88,17 +82,17 @@ a.w-top{
 	font-family: "Yukyokasho Yoko", cursive;
 	color: tomato;
 	text-decoration: none;
-	background: rgb(255,246,204);
-	padding: 10px;
 }
 
-#about{
-	font-family: "Yukyokasho Yoko", cursive;
+.img{
+	width: 8%;
+	display: block;
 	position: absolute;
-	left: 280px;
-	top: 50px;
 }
 
+#1{
+	
+}
 
 
 

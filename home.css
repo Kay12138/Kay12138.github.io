@@ -1,0 +1,58 @@
+html{
+	background-image: url(img/background.gif);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.href{
+	width: 100%;
+	background-color: rgba(238,162,164,0.4);
+	padding-top: 0.4px;
+	padding-bottom: 0.3px;
+	font-size: 44px;
+	margin: 0;
+	text-align: center;
+}
+
+#background{
+    height: 100%;
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+a.nav-link{
+	display: inline-block;
+	width: 200px;
+	position: relative;
+	top: -6px;
+	color: rgb(191,211,255);
+	text-decoration: none;
+	font-family: "Yukyokasho Yoko", cursive;
+}
+
+.nav-link:hover{
+	color: rgb(251,251,251);
+	transition: color 0.3s; font-weight: bolder; font-size: 50px;
+}
+
+
+
+p{
+	position: relative;
+	top: 200px;
+	text-align: center;
+	font-size: 50px;
+	color: rgb(255,160,206);
+	font-family: "Yukyokasho Yoko", cursive;
+}
+
+
+
+
+
+
+
+
+
