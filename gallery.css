@@ -104,9 +104,10 @@ a.nav-link{
 
 #title{
 	position: absolute;
-	left: 30%;
 	top: 60px;
-
+	padding: 0;
+	text-align: center;
+	width: 100%
 }
 
 
